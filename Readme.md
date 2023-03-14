@@ -18,3 +18,6 @@ Note that even though the email sending logic is configured in the codebase, the
 2. If you're using Gmail - Google's account security configurations:
     1. Enable 2FA (following these steps: https://support.google.com/accounts/answer/185839).
     2. Add an App Password to your account (following these steps: https://support.google.com/accounts/answer/185833) and using that code as the password in the code.
+
+# MODULE 9: Learn Spring Security Core - Advanced Authorization
+This is the codebase for Module 'Advanced Authorization' of [Learn Spring Security Core](https://bit.ly/github-lssc)
